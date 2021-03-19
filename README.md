@@ -2,7 +2,7 @@
 
 |Base Info|Dashboard Data|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
-| __Hi, I am Ezshine! 👋__<br/><br/>1. I’m FullStack Engineer focus on HTML/Flutter/Miniprogram<br/>2. I'm living in Beijing, China<br/> | [![ezshine's github stats](https://github-readme-stats.vercel.app/api?username=ezshine&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+| __Hi, I am Ezshine! 👋__<br/><br/>1. I’m FullStack Engineer focus on HTML/Flutter/Miniprogram/Nodejs/Electron<br/>2. I'm living in Beijing, China<br/> | [![ezshine's github stats](https://github-readme-stats.vercel.app/api?username=ezshine&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 
 <a href="https://www.zhihu.com/people/ezshine">
   <img align="left" alt="大帅 | zhihu.com" width="20px" src="https://www.zhihu.com/favicon.ico" />
