@@ -15,9 +15,9 @@
   
 我热爱编程. :heart:
 
-希望可以一直写代码到70岁. :heart:
+希望可以一直写代码. :heart:
 
-### 我擅长这些 :point_down:  
+### 我喜欢这些 :point_down:  
 
 <p>
 
