@@ -4,6 +4,8 @@
 
 # 我叫`大帅`，一个`老`程序`猿`
 
+<img alt="大帅" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a305837cedc847e787a9ec41ee7bbe4a~tplv-k3u1fbpfcp-watermark.image?" width=200 />
+
 <p>
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D422646817)](https://space.bilibili.com/422646817)
