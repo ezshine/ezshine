@@ -16,3 +16,4 @@ INTP，Indie Hacker，Creative Developer
 - Temp Mail My (https://tempmailmy.com/)
 - PDF Tool My (https://pdftoolmy.com/)
 - dashu.ai (https://dashu.ai)
+- yaofan.me (https://yaofan.me)
